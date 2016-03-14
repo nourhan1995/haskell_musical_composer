@@ -17,6 +17,7 @@ have that file in the same folder as your solution .hs file. Then, you can write
 import MusicResources
 
 In order to implement the composer, you are required to:
+
   a) Implement the function makeStatsList which will dynamically generate a list of statistics accor-
   ding to the content of the training list in the MusicResources.hs file. The type of makeStatsList
   will be:
