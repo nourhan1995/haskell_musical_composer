@@ -1,7 +1,6 @@
 # haskell_musical_composer
-Musical Composer
 
-Project Description
+# Project Description
 
 You are required to implement a simple algorithmic music composer. It should be able to learn some
 statistics from a number of given strings representing famous musical pieces and then use these statistics
@@ -49,7 +48,7 @@ In order to implement the composer, you are required to:
   ’q’ with frequency 8 and 2, respectively. Hint: You can use the function randomZeroToX in your
   solution which you will find in MusicResources.hs.
   
-Sample Test
+# Sample Test
 
   a) The file testingmakeStatsListCall.txt shows the output of a sample makeStatsListCall that was
   generated with a value of the training list equal to:
